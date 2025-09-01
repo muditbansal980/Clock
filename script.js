@@ -55,11 +55,5 @@ setInterval(() => {
     hourhand();
 }, 1000);
 
-// function secondHand() {
-//     for(i=0;i<360;i+=6){
-//         currentAngle += 20;
-//         document.querySelector(".second").style.transform = `rotate(${currentAngle}deg)`;
-//     }
-// }
-// setInterval(secondHand, 1000);
+
 
